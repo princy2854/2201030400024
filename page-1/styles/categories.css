@@ -1,0 +1,257 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.categories-zbn {
+  box-sizing: border-box;
+  padding: 3.4rem 7.6rem 9.1rem 6.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #01101e;
+  border-radius: 2rem;
+}
+.categories-zbn .auto-group-r4b6-JcU {
+  margin-bottom: 10.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-r4b6-JcU .skillgive-FGp {
+  margin-right: 53.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: League Gothic, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-r4b6-JcU .home-nXe {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-r4b6-JcU .about-vtk {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-r4b6-JcU .categories-GSp {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-r4b6-JcU .challenges-DN4 {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-r4b6-JcU .login-Zgp {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.categories-zbn .choose-your-category-JPW {
+  margin: 0rem 0rem 6.2rem 1.4rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-nusc-DmN {
+  margin: 0rem 2.5rem 9.4rem 3.9rem;
+  width: calc(100% - 6.4rem);
+  height: 35rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-nusc-DmN .auto-group-nm3i-YHr {
+  margin-right: 3.9rem;
+  box-sizing: border-box;
+  padding-bottom: 2.6rem;
+  width: 28rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-nusc-DmN .auto-group-nm3i-YHr .rectangle-7-sb2 {
+  margin-bottom: 2.2rem;
+  width: 28rem;
+  height: 26.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-nusc-DmN .auto-group-nm3i-YHr .cultural-challenges-ozU {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-nusc-DmN .auto-group-m4ip-j7S {
+  margin-right: 3.9rem;
+  box-sizing: border-box;
+  padding-bottom: 2.6rem;
+  width: 28rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-nusc-DmN .auto-group-m4ip-j7S .rectangle-8-FrU {
+  margin-bottom: 2.2rem;
+  width: 28rem;
+  height: 26.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-nusc-DmN .auto-group-m4ip-j7S .quiz-challenges-Pxg {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-nusc-DmN .auto-group-yorw-KrL {
+  margin-right: 3.8rem;
+  width: 28.1rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-nusc-DmN .auto-group-yorw-KrL .rectangle-13-sN4 {
+  width: 28rem;
+  height: 35rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  background-color: #ffffff;
+}
+.categories-zbn .auto-group-nusc-DmN .auto-group-yorw-KrL .rectangle-9-zxU {
+  width: 28rem;
+  height: 26.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.categories-zbn .auto-group-nusc-DmN .auto-group-yorw-KrL .hackathon-challenges-M2L {
+  width: 27.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 28.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.categories-zbn .auto-group-nusc-DmN .auto-group-klrs-eGL {
+  box-sizing: border-box;
+  padding-bottom: 2.6rem;
+  width: 28rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-nusc-DmN .auto-group-klrs-eGL .rectangle-10-BXA {
+  margin-bottom: 2.2rem;
+  width: 28rem;
+  height: 26.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-nusc-DmN .auto-group-klrs-eGL .games-challenges-XL8 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.categories-zbn .auto-group-ejyn-r7W {
+  margin: 0rem 39.4rem 0rem 40.7rem;
+  width: calc(100% - 80.1rem);
+  height: 6rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8e8a20;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

@@ -1,0 +1,160 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.onboarding-screen-7v4 {
+  box-sizing: border-box;
+  padding: 3.4rem 7.6rem 18.6rem 6.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #01101e;
+  border-radius: 2rem;
+}
+.onboarding-screen-7v4 .auto-group-rzy6-ppU {
+  margin-bottom: 8.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.onboarding-screen-7v4 .auto-group-rzy6-ppU .skillgive-a2x {
+  margin-right: 53.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: League Gothic, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.onboarding-screen-7v4 .auto-group-rzy6-ppU .home-JUk {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.onboarding-screen-7v4 .auto-group-rzy6-ppU .about-Sax {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.onboarding-screen-7v4 .auto-group-rzy6-ppU .categories-nep {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.onboarding-screen-7v4 .auto-group-rzy6-ppU .challenges-Y8C {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.onboarding-screen-7v4 .auto-group-rzy6-ppU .login-Hba {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.onboarding-screen-7v4 .go-back-1nU {
+  margin: 0rem 120rem 5rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.onboarding-screen-7v4 .thankyou-for-your-donation-would-love-to-know-your-feedbacks-here-8MJ {
+  margin: 0rem 0rem 9.9rem 1.2rem;
+  max-width: 85.9rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.onboarding-screen-7v4 .auto-group-u4ex-cGU {
+  margin: 0rem 49.4rem 3.8rem 50.7rem;
+  width: calc(100% - 100.1rem);
+  height: 7rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8e8a20;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.onboarding-screen-7v4 .or-U3n {
+  margin: 0rem 0rem 3.8rem 1.3rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.onboarding-screen-7v4 .auto-group-idnk-PRe {
+  margin: 0rem 49.4rem 0rem 50.7rem;
+  width: calc(100% - 100.1rem);
+  height: 7rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8e8a20;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

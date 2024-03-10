@@ -1,0 +1,162 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.homepage-oak {
+  box-sizing: border-box;
+  padding: 3.4rem 7.6rem 17.888rem 6.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #01101e;
+  border-radius: 2rem;
+}
+.homepage-oak .auto-group-kvzs-AJp {
+  margin-bottom: 9.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-oak .auto-group-kvzs-AJp .skillgive-wMW {
+  margin-right: 53.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: League Gothic, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-oak .auto-group-kvzs-AJp .home-CoE {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-oak .auto-group-kvzs-AJp .about-LPe {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-oak .auto-group-kvzs-AJp .categories-56L {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-oak .auto-group-kvzs-AJp .challenges-DTS {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-oak .auto-group-kvzs-AJp .login-A7n {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-oak .auto-group-impx-fKS {
+  margin: 0rem 0.6rem 0rem 1.4rem;
+  width: calc(100% - 2rem);
+  height: 54.212rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-oak .auto-group-impx-fKS .auto-group-ngs8-Zfi {
+  margin: 3.5rem 4.2rem 4.212rem 0rem;
+  height: calc(100% - 7.712rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-oak .auto-group-impx-fKS .auto-group-ngs8-Zfi .empower-through-skills-the-charity-challenge-platform-HLp {
+  max-width: 73.9rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-oak .auto-group-impx-fKS .auto-group-ngs8-Zfi .turn-your-talents-into-impactful-donations-b6c {
+  margin-bottom: 2.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-oak .auto-group-impx-fKS .auto-group-ngs8-Zfi .welcome-to-our-unique-platform-where-your-skills-and-challenges-translate-into-charitable-donations-whether-youre-a-runner-a-coder-a-chef-or-have-any-other-talent-heres-where-you-can-use-those-abilities-to-make-a-real-difference-join-a-community-dedicated-to-changing-the-world-one-challenge-at-a-time-74x {
+  margin-bottom: 3.1rem;
+  max-width: 59.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-oak .auto-group-impx-fKS .auto-group-ngs8-Zfi .auto-group-bqd2-3si {
+  margin-left: 0.4rem;
+  width: 30rem;
+  height: 7rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8e8a20;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.homepage-oak .auto-group-impx-fKS .d-casual-life-smiling-young-couple-standing-and-using-mobile-phones-1-6b6 {
+  width: 50rem;
+  height: 54.212rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
