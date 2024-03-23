@@ -1,0 +1,119 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 160rem;
+}.login-nf6 {
+  box-sizing: border-box;
+  padding: 3.4rem 6.3rem 21.6rem 6.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #01101e;
+  border-radius: 2rem;
+}
+.login-nf6 .skillgive-Wqz {
+  margin: 0rem 122.4rem 4.3rem 0rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: League Gothic, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-nf6 .welcome-back-login-here-SDr {
+  margin: 0rem 0.1rem 14.1rem 0rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-nf6 .auto-group-pxn4-wgQ {
+  margin: 0rem 20.7rem 6.5rem 20.7rem;
+  box-sizing: border-box;
+  padding: 1.2rem 3.1rem;
+  width: calc(100% - 41.4rem);
+  text-align: left;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #8e8a20;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.login-nf6 .auto-group-z5pa-Qpt {
+  margin: 0rem 20.7rem 12.5rem 20.7rem;
+  box-sizing: border-box;
+  padding: 1.2rem 3.1rem;
+  width: calc(100% - 41.4rem);
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #8e8a20;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.login-nf6 .auto-group-61o2-tVA {
+  margin: 0 40.7rem;
+  width: calc(100% - 81.4rem);
+  height: 6rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8e8a20;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+input[type="text"], input[type="password"] {
+  border: none;
+  outline: none;
+  background: transparent; /* Make the background transparent */
+  font-size: 16px; /* Adjust font size as needed */
+  color: white; /* Set text color to white */
+  margin-bottom: 10px; /* Add spacing between input fields */
+}
+
+/* Style placeholder text */
+::placeholder {
+  color: white; /* Set placeholder text color to white */
+}
+.auto-group-61o2-tVA a {
+  border: none;
+  outline: none;
+  background: transparent; /* Make the background transparent */
+  font-size: 16px; /* Adjust font size as needed */
+  color: white; /* Set text color to white */
+  margin-bottom: 10px; /* Add border radius */
+}
+

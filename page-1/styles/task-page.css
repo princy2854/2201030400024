@@ -1,0 +1,180 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.task-page-xj6 {
+  box-sizing: border-box;
+  padding: 3.4rem 7.6rem 12.2rem 6.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #01101e;
+  border-radius: 2rem;
+}
+.task-page-xj6 .auto-group-jhye-Tfr {
+  margin-bottom: 8.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.task-page-xj6 .auto-group-jhye-Tfr .skillgive-zvg {
+  margin-right: 53.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: League Gothic, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.task-page-xj6 .auto-group-jhye-Tfr .home-Wu2 {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.task-page-xj6 .auto-group-jhye-Tfr .about-ekL {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.task-page-xj6 .auto-group-jhye-Tfr .categories-iEQ {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.task-page-xj6 .auto-group-jhye-Tfr .challenges-etk {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.task-page-xj6 .auto-group-jhye-Tfr .login-oFr {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.task-page-xj6 .go-back-Xhe {
+  margin: 0rem 120rem 4.8rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.task-page-xj6 .dance-challenge-upload-your-dancing-video-dVn {
+  margin: 0rem 0rem 5.5rem 0.2rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.task-page-xj6 .auto-group-nmdv-L9J {
+  margin: 0rem 49.4rem 0rem 50.7rem;
+  width: calc(100% - 100.1rem);
+  height: 7rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8e8a20;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.task-page-xj6 .line-1-PtG {
+  margin: 0rem 64.1rem 0rem 65.7rem;
+  width: calc(100% - 129.8rem);
+  height: 10rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.task-page-xj6 .auto-group-f7xg-ivY {
+  margin: 0rem 49.4rem 0rem 50.7rem;
+  width: calc(100% - 100.1rem);
+  height: 7rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8e8a20;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.task-page-xj6 .line-2-PWt {
+  margin: 0rem 64.1rem 0rem 65.7rem;
+  width: calc(100% - 129.8rem);
+  height: 10rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.task-page-xj6 .auto-group-pfzc-vFv {
+  margin: 0rem 49.4rem 0rem 50.7rem;
+  width: calc(100% - 100.1rem);
+  height: 7rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8e8a20;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

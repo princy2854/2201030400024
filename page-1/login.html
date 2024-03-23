@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>Login</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=League+Gothic%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A500%2C600"/>
+  <link rel="stylesheet" href="./styles/login.css"/>
+</head>
+<body>
+  <nav class="login-nf6">
+    <p class="skillgive-Wqz">SkillGive</p>
+    <p class="welcome-back-login-here-SDr">WELCOME BACK! LOGIN HERE</p>
+  <nav>
+    <form>
+      <div class="auto-group-pxn4-wgQ">
+        <input type="text" class="custom-input" id="email-placeholder" placeholder="Enter your Email">
+      </div>
+      <div class="auto-group-z5pa-Qpt">
+        <input type="password" class="custom-input password-input" id="password-placeholder" placeholder="Enter your Password">
+      </div>
+      <div class="auto-group-61o2-tVA">
+        <a href="#" onclick="submitForm()">LOGIN</a>
+      </div>
+    </form>
+  </nav>
+  </div>
+  
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      var inputs = document.querySelectorAll('.custom-input');
+  
+      inputs.forEach(function(input) {
+        input.addEventListener('input', function() {
+          // Clear placeholder text when typing starts
+          if (this.value !== '') {
+            this.placeholder = '';
+          } else {
+            this.placeholder = this.getAttribute('placeholder');
+          }
+        });
+      });
+    });
+    function submitForm() {
+      var email = document.getElementById("email-placeholder").value;
+      var password = document.getElementById("password-placeholder").value;
+      
+      // Validate email and password if needed
+      
+      // Redirect to home page
+      window.location.href = "homepage.html";
+    }
+    
+  </script>
+
+  
+</body>
+</html>

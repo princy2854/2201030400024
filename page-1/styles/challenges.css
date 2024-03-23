@@ -1,0 +1,381 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 160rem;
+}.challenges-2X6 {
+  box-sizing: border-box;
+  padding-bottom: 16.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #01101e;
+  border-radius: 2rem;
+}
+.challenges-2X6 .auto-group-hqel-yBS {
+  box-sizing: border-box;
+  padding: 3.4rem 7.6rem 3.2rem 6.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-hqel-yBS .auto-group-resg-72k {
+  margin-bottom: 6.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-hqel-yBS .auto-group-resg-72k .skillgive-TcQ {
+  margin-right: 53.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: League Gothic, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-hqel-yBS .auto-group-resg-72k .home-z6Y {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-hqel-yBS .auto-group-resg-72k .about-Kec {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-hqel-yBS .auto-group-resg-72k .categories-GZr {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-hqel-yBS .auto-group-resg-72k .challenges-pLU {
+  margin-right: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-hqel-yBS .auto-group-resg-72k .login-9tY {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-hqel-yBS .challenges-636 {
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-8tfv-3DE {
+  box-sizing: border-box;
+  padding: 1.4rem 7.6rem 1.4rem 6.3rem;
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #ffffff;
+  background-color: rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-8tfv-3DE .auto-group-fzzr-ZhN {
+  margin-right: 30.1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-8tfv-3DE .auto-group-fzzr-ZhN .showcase-your-dancing-skills-by-uploading-your-dancing-video-X8Q {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-8tfv-3DE .auto-group-fzzr-ZhN .download-rules-book-qet {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-8tfv-3DE .auto-group-ry5a-BCx {
+  margin: 1.1rem 0;
+  width: 23.5rem;
+  height: calc(100% - 2.2rem);
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8e8a20;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-hswe-cZA {
+  box-sizing: border-box;
+  padding: 1.4rem 7.6rem 1.4rem 6.3rem;
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #ffffff;
+  background-color: rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-hswe-cZA .auto-group-umde-LEG {
+  margin-right: 30.1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-hswe-cZA .auto-group-umde-LEG .showcase-your-dancing-skills-by-uploading-your-dancing-video-gov {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-hswe-cZA .auto-group-umde-LEG .download-rules-book-p9S {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-hswe-cZA .auto-group-q7nt-Z72 {
+  margin: 1.1rem 0;
+  width: 23.5rem;
+  height: calc(100% - 2.2rem);
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8e8a20;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-ssag-cLC {
+  box-sizing: border-box;
+  padding: 1.4rem 7.6rem 1.4rem 6.3rem;
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #ffffff;
+  background-color: rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-ssag-cLC .auto-group-fama-w7a {
+  margin-right: 30.1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-ssag-cLC .auto-group-fama-w7a .showcase-your-dancing-skills-by-uploading-your-dancing-video-HSL {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-ssag-cLC .auto-group-fama-w7a .download-rules-book-Dqn {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-ssag-cLC .auto-group-z7rw-Zek {
+  margin: 1.1rem 0;
+  width: 23.5rem;
+  height: calc(100% - 2.2rem);
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8e8a20;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-udue-RS4 {
+  box-sizing: border-box;
+  padding: 1.4rem 7.6rem 1.4rem 6.3rem;
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #ffffff;
+  background-color: rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-udue-RS4 .auto-group-caeg-wQQ {
+  margin-right: 30.1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-udue-RS4 .auto-group-caeg-wQQ .showcase-your-dancing-skills-by-uploading-your-dancing-video-gsn {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-udue-RS4 .auto-group-caeg-wQQ .download-rules-book-R4g {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-udue-RS4 .auto-group-zirj-xaQ {
+  margin: 1.1rem 0;
+  width: 23.5rem;
+  height: calc(100% - 2.2rem);
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8e8a20;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-c3cg-pcc {
+  box-sizing: border-box;
+  padding: 1.4rem 7.6rem 1.4rem 6.3rem;
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #ffffff;
+  background-color: rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-c3cg-pcc .auto-group-uys2-Y2p {
+  margin-right: 30.1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-c3cg-pcc .auto-group-uys2-Y2p .showcase-your-dancing-skills-by-uploading-your-dancing-video-tcU {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-c3cg-pcc .auto-group-uys2-Y2p .download-rules-book-cYU {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.challenges-2X6 .auto-group-c3cg-pcc .auto-group-dw3a-MW4 {
+  margin: 1.1rem 0;
+  width: 23.5rem;
+  height: calc(100% - 2.2rem);
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8e8a20;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
